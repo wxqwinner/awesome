@@ -1,6 +1,11 @@
 # awesome
 Awesome collection for me.
 
+class | small |  medium      | large
+:-----|:------|:-------------|:-----------
+tts   |  sam  |  hts         | vits
+asr   |  dtw  |  kaldi nnet3 | Zipformer
+
 ## audio
 1.  [TSM](https://github.com/zygurt/TSM)
 1.  [awesome-speech-enhancement](https://github.com/WenzheLiu-Speech/awesome-speech-enhancement)
@@ -8,6 +13,10 @@ Awesome collection for me.
 
 ## text
 1.  [funNLP](https://github.com/fighting41love/funNLP)
+
+## video
+
+1.  [Video Super-Resolution]https://github.com/YounggjuuChoi/Deep-Video-Super-Resolution
 
 ## books 
 1.  [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
