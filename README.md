@@ -6,6 +6,10 @@ class | small |  medium      | large
 tts   |  sam  |  hts         | vits
 asr   |  dtw  |  kaldi nnet3 | Zipformer
 
+## app
+
+1.  [AI Collection](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
+
 ## audio
 1.  [TSM](https://github.com/zygurt/TSM)
 1.  [awesome-speech-enhancement](https://github.com/WenzheLiu-Speech/awesome-speech-enhancement)
@@ -16,7 +20,7 @@ asr   |  dtw  |  kaldi nnet3 | Zipformer
 
 ## video
 
-1.  [Video Super-Resolution]https://github.com/YounggjuuChoi/Deep-Video-Super-Resolution
+1.  [Video Super-Resolution](https://github.com/YounggjuuChoi/Deep-Video-Super-Resolution)
 
 ## books 
 1.  [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
