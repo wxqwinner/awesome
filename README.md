@@ -14,6 +14,7 @@ asr   |  dtw  |  kaldi nnet3 | Zipformer
 1.  [TSM](https://github.com/zygurt/TSM)
 1.  [awesome-speech-enhancement](https://github.com/WenzheLiu-Speech/awesome-speech-enhancement)
 1.  [Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement.git)
+1.  [SpeechAlgorithms](https://github.com/Ryuk17/SpeechAlgorithms)
 
 ## text
 1.  [funNLP](https://github.com/fighting41love/funNLP)
